@@ -4,6 +4,16 @@ This repository contains an interactive **Power BI dashboard** built using the *
 
 ---
 
+## Dashboard Preview
+<p align="center">
+  <img src="AdventureWorks Report-images-0.jpg" alt="Dashboard Preview" width="800"/>
+  <img src="AdventureWorks Report-images-1.jpg" alt="Dashboard Preview" width="800"/>
+  <img src="AdventureWorks Report-images-2.jpg" alt="Dashboard Preview" width="800"/>
+  <img src="AdventureWorks Report-images-3.jpg" alt="Dashboard Preview" width="800"/>
+</p>
+
+---
+
 ## 📊 Dashboard Features
 
 - 📈 **Sales Trends**: Year-over-year revenue, profit, and order volume analysis
